@@ -1,0 +1,24 @@
+{
+    "name": "metabor/chronology",
+    "description": "Library to handle with chronological tables and timetable",
+    "keywords": ["chronology", "chronological tables", "timetable", "date", "time", "DateTime", , "DateIntervall"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oliver Tischlinger",
+            "email": "oliver.tischlinger@metabor.de"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "suggest": {
+    },
+    "autoload": {
+        "psr-0": {
+			"Metabor\\": "src/"
+        }
+    },
+    "prefer-stable":true,
+    "minimum-stability":"dev"
+}

@@ -1,7 +1,7 @@
 {
     "name": "metabor/chronology",
     "description": "Library to handle with chronological tables and timetable",
-    "keywords": ["chronology", "chronological tables", "timetable", "date", "time", "DateTime", , "DateIntervall"],
+    "keywords": ["chronology", "chronological tables", "timetable", "date", "time", "DateTime", "DateIntervall"],
     "license": "MIT",
     "authors": [
         {

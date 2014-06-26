@@ -1,6 +1,5 @@
 <?php
 namespace Metabor\Chronology;
-use MetaborStd\CallbackInterface;
 
 /**
  * @author Oliver Tischlinger
@@ -112,5 +111,4 @@ class CombineTimelinesIterator implements \Iterator
         }
         return false;
     }
-
 }
